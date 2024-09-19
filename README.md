@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinwin/trinwin/main/banner.svg" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGNGL4Tw79hRw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726633277492?e=1732147200&v=beta&t=WtIx8lX2GjiJ3m-ssJnsURkbCCg7-0DiZtDaArv00TY" alt="Banner" />
 </div>
 
 # Hi there, I'm Dineth Dilshan Gunawardana 👋
