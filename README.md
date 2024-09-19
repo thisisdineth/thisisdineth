@@ -1,46 +1,47 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGNGL4Tw79hRw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726633277492?e=1732147200&v=beta&t=WtIx8lX2GjiJ3m-ssJnsURkbCCg7-0DiZtDaArv00TY" alt="Banner" />
-</div>
+<h1 align="center">Hi 👋, I'm Dineth Gunawardana</h1>
+<h3 align="center">Full stack coding learner from 🇱🇰 Sri Lanka</h3>
 
-# Hi there, I'm Dineth Dilshan Gunawardana 👋
 
-<!-- Animated SVG Text -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=24&duration=4000&color=36BCF7&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisdineth&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdineth" /> </p>
 
-## About Me
-I am a passionate developer with a love for building interactive web applications. I'm currently focused on creating amazing user experiences using modern web technologies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisdineth" alt="thisisdineth" /></a> </p>
 
-<!-- Tech Stack with Icons and Badges -->
-### 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+<p align="left"> <a href="https://twitter.com/thisisdineth" target="blank"><img src="https://img.shields.io/twitter/follow/thisisdineth?logo=twitter&style=for-the-badge" alt="thisisdineth" /></a> </p>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+- 🔭 I’m currently working on [combinedmaths.org](www.combinedmaths.org)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+- 🌱 I’m currently learning **Ordinary Level in SL**
 
-### 🚀 My Projects
-- [Project 1](https://github.com/yourusername/project1): Description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of project 2.
-- [Project 3](https://github.com/yourusername/project3): Description of project 3.
+- 👯 I’m looking to collaborate on [Ranjanas](www.ranjanasgroup.com)
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+- 🤝 I’m looking for help with [people who need Advice](gmc-orpin.vercel.app)
 
-### 🎨 Fun Fact
-![Fun Fact](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
+- 👨‍💻 All of my projects are available at [www.thisisdineth.store](www.thisisdineth.store)
 
-<!-- Footer with Visitor Counter -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+- 📝 I regularly write articles on [www.thisisdineth.store](www.thisisdineth.store)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
-</div>
+- 💬 Ask me about **Photography , CSS , HTML**
+
+- 📫 How to reach me **infodinethdil@gmail.com**
+
+- 📄 Know about my experiences [www.thisisdineth.store](www.thisisdineth.store)
+
+- ⚡ Fun fact **We still don't take full advantage of AI**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisdineth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisisdineth" height="30" width="40" /></a>
+<a href="https://fb.com/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisisdineth" height="30" width="40" /></a>
+<a href="https://instagram.com/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisdineth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thisisdineth" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisdineth&show_icons=true&locale=en&layout=compact" alt="thisisdineth" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisdineth&show_icons=true&locale=en" alt="thisisdineth" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdineth&" alt="thisisdineth" /></p>
