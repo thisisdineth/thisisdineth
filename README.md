@@ -8,23 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/thisisdineth" target="blank"><img src="https://img.shields.io/twitter/follow/thisisdineth?logo=twitter&style=for-the-badge" alt="thisisdineth" /></a> </p>
 
-- 🔭 I’m currently working on [combinedmaths.org](www.combinedmaths.org)
+- 🔭 I’m currently working on [findaguest.online](www.findaguest.online)
 
-- 🌱 I’m currently learning **Ordinary Level in SL**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Ranjanas](www.ranjanasgroup.com)
-
-- 🤝 I’m looking for help with [people who need Advice](gmc-orpin.vercel.app)
+- ⭐️ My top rated project is [GMC AI Counceling with AI](gmc-orpin.vercel.app)
 
 - 👨‍💻 All of my projects are available at [www.thisisdineth.store](www.thisisdineth.store)
 
-- 📝 I regularly write articles on [www.thisisdineth.store](www.thisisdineth.store)
+- 📝 I regularly write articles on [Linkedin/thisisdineth](https://www.linkedin.com/in/thisisdineth/)
 
-- 💬 Ask me about **Photography , CSS , HTML**
+- 💬 Ask me about **Photography , CSS , HTML , javscript, firebase**
 
-- 📫 How to reach me **infodinethdil@gmail.com**
-
-- 📄 Know about my experiences [www.thisisdineth.store](www.thisisdineth.store)
+- 📫 reach me **infodinethdil@gmail.com**
 
 - ⚡ Fun fact **We still don't take full advantage of AI**
 
