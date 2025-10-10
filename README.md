@@ -1,43 +1,77 @@
 <h1 align="center">Hi 👋, I'm Dineth Gunawardana</h1>
-<h3 align="center">Full stack coding learner from 🇱🇰 Sri Lanka</h3>
+<h3 align="center">Entrepreneur • Founder @ApilageAI • Full-stack coding learner from 🇱🇰 Sri Lanka</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisdineth&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdineth" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisdineth" alt="thisisdineth" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thisisdineth" target="blank"><img src="https://img.shields.io/twitter/follow/thisisdineth?logo=twitter&style=for-the-badge" alt="thisisdineth" /></a> </p>
-
-- 🔭 I’m currently working on [findaguest.online](www.findaguest.online)
-
-- 🌱 I’m currently learning **Python**
-
-- ⭐️ My top rated project is [GMC AI Counceling with AI](gmc-orpin.vercel.app)
-
-- 👨‍💻 All of my projects are available at [www.thisisdineth.store](www.thisisdineth.store)
-
-- 📝 I regularly write articles on [Linkedin/thisisdineth](https://www.linkedin.com/in/thisisdineth/)
-
-- 💬 Ask me about **Photography , CSS , HTML , javscript, firebase**
-
-- 📫 reach me **infodinethdil@gmail.com**
-
-- ⚡ Fun fact **We still don't take full advantage of AI**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisdineth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisisdineth" height="30" width="40" /></a>
-<a href="https://fb.com/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisisdineth" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisdineth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thisisdineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thisisdineth" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dinethdilshan.com" target="_blank">🌐 dinethdilshan.com</a> •
+  <a href="https://apilageai.lk" target="_blank">🚀 apilageai.lk</a> •
+  <a href="https://github.com/ApilageAI" target="_blank">🏢 ApilageAI (Org)</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisdineth&show_icons=true&locale=en&layout=compact" alt="thisisdineth" /></p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=thisisdineth&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thisisdineth" alt="trophies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisdineth&show_icons=true&locale=en" alt="thisisdineth" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdineth&" alt="thisisdineth" /></p>
+### About me
+I'm Dineth — an entrepreneur and full-stack coding learner from Sri Lanka. I founded **ApilageAI** and I'm building practical AI products for local & global users at **apilageai.lk**. I like shipping small projects, learning new tech every week, and teaching/mentoring whenever I can.
+
+- 🔭 Current project: [findaguest.online](https://findaguest.online) — building guest-list & event tools.
+- 🧠 Learning: Python, product-level AI integrations, and scalable serverless systems.
+- 🌟 Top project: [GMC AI Counseling](https://gmc-orpin.vercel.app) (AI-assisted counseling demo).
+- 🛍️ Projects & portfolio: [thisisdineth.store](https://www.thisisdineth.store)
+
+---
+
+### Featured work
+- **ApilageAI** — Founder. Building productized AI tools and local AI services. (Website: https://apilageai.lk · Org: https://github.com/ApilageAI)
+- **findaguest.online** — Event & guest management tools I'm actively developing.
+- **GMC AI Counseling** — An AI-assisted counseling demo (personal project).
+- **thisisdineth.store** — Collection of my projects, demos and resources.
+
+---
+
+### Languages & Tools
+I work across front-end, design and backend tools:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="30" height="30"/>
+</p>
+
+---
+
+### How to reach me
+- ✉️ Email: [infodinethdil@gmail.com](mailto:infodinethdil@gmail.com)  
+- 🔗 Website: https://dinethdilshan.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/thisisdineth/  
+- 🐦 Twitter: https://twitter.com/thisisdineth
+
+---
+
+### Open to
+- Collaborations and mentorships on product & AI projects
+- Freelance frontend/backend work and prototyping
+- Conversation about photography, CSS, HTML, JavaScript, Firebase
+
+---
+
+### GitHub stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisdineth&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thisisdineth&show_icons=true&locale=en" alt="github stats" />
+</p>
+
+---
+
+⚡ Fun fact: I believe we still haven't taken full advantage of AI — so I'm building toward that.
+
