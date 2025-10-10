@@ -19,10 +19,9 @@
 ### About me
 I'm Dineth — an entrepreneur and full-stack coding learner from Sri Lanka. I founded **ApilageAI** and I'm building practical AI products for local & global users at **apilageai.lk**. I like shipping small projects, learning new tech every week, and teaching/mentoring whenever I can.
 
-- 🔭 Current project: [findaguest.online](https://findaguest.online) — building guest-list & event tools.
+- 🔭 Current project: [apilageai.lk](https://apilageai.lk) — building Sri Lankan largest e-learning arena.
 - 🧠 Learning: Python, product-level AI integrations, and scalable serverless systems.
-- 🌟 Top project: [GMC AI Counseling](https://gmc-orpin.vercel.app) (AI-assisted counseling demo).
-- 🛍️ Projects & portfolio: [thisisdineth.store](https://www.thisisdineth.store)
+
 
 ---
 
