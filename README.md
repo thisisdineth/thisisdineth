@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://dinethdilshan.com" target="_blank">🌐 dinethdilshan.com</a> •
   <a href="https://apilageai.lk" target="_blank">🚀 apilageai.lk</a> •
-  <a href="https://github.com/ApilageAI" target="_blank">🏢 ApilageAI (Org)</a>
+  <a href="https://github.com/ApilageAI" target="_blank">🏢 ApilageAI</a>
 </p>
 
 ---
@@ -27,9 +27,6 @@ I'm Dineth — an entrepreneur and full-stack coding learner from Sri Lanka. I f
 
 ### Featured work
 - **ApilageAI** — Founder. Building productized AI tools and local AI services. (Website: https://apilageai.lk · Org: https://github.com/ApilageAI)
-- **findaguest.online** — Event & guest management tools I'm actively developing.
-- **GMC AI Counseling** — An AI-assisted counseling demo (personal project).
-- **thisisdineth.store** — Collection of my projects, demos and resources.
 
 ---
 
@@ -53,7 +50,7 @@ I work across front-end, design and backend tools:
 - ✉️ Email: [infodinethdil@gmail.com](mailto:infodinethdil@gmail.com)  
 - 🔗 Website: https://dinethdilshan.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/thisisdineth/  
-- 🐦 Twitter: https://twitter.com/thisisdineth
+- Ⅹ x: https://x.com/thisisdineth
 
 ---
 
